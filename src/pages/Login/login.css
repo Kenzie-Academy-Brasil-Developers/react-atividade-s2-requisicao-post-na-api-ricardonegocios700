@@ -1,0 +1,11 @@
+.login {
+  padding: 10px;
+  background-color: #e67e22;
+}
+.login form {
+  display: flex;
+  flex-direction: column;
+}
+.login form input {
+  margin: 10px 0;
+}
